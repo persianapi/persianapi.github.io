@@ -34,3 +34,7 @@ h6,
 .nav-menu > ul > li {
     float: right;
 }
+.mobile-nav-toggle {
+    right: auto;
+    left: 15px;
+}
