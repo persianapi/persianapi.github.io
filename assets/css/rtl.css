@@ -1,0 +1,36 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#hero h1,
+.pricing .get-started-btn,
+.nav-menu a,
+#hero .download-btn {
+    font-family: "Shabnam" !important;
+}
+
+.features .content .icon-box i {
+    float: right;
+}
+
+.features .content .icon-box h4 {
+    margin: 5px 60px 10px 0;
+}
+.features .content .icon-box p {
+    margin-left: 0;
+    margin-right: 60px;
+}
+.icofont-check {
+    float: right;
+    padding-right: 0;
+    padding-left: 4px;
+}
+.pricing ul {
+    text-align: right;
+}
+.nav-menu > ul > li {
+    float: right;
+}
